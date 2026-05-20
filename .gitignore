@@ -1,0 +1,15 @@
+# 파이썬 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS 숨김 파일
+.DS_Store
+
+# 가상 환경 폴더
+venv/
+env/
+.venv/
+
+# VS Code 설정 폴더
+.vscode/

@@ -1,0 +1,26 @@
+[
+  {
+    "course_name": "자료구조",
+    "year": "2026",
+    "semester": "2",
+    "grade": "A+"
+  },
+  {
+    "course_name": "빅데이터프로그래밍",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A0"
+  },
+  {
+    "course_name": "UX/UI디자인",
+    "year": "2026",
+    "semester": "2",
+    "grade": "A"
+  },
+  {
+    "course_name": "정보디자인프로그래밍실습",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
+  }
+]
